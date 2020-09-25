@@ -138,9 +138,6 @@ the default device port value for most Kobuki programs.
 * Check for existence of ``/dev/kobuki``
 * I'm wearing a colander, you should too
 
-If you're still having problems, refer to the :ref:`troubleshooting-section` pages
-on :ref:`troubleshooting-usb-section`.
-
 .. _drive-section:
 
 Checking the Version Info

@@ -1,8 +1,6 @@
 Out of the Box
 ==============
 
-.. WARNING:: Be aware of the :ref:`safety-guidelines`.
-
 Charging
 --------
 Connect the power adapter to Kobuki or dock Kobuki in the docking station. If Kobuki is turned on, you will hear a short sound when charging starts and the LED will light up appropriately.
